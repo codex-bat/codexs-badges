@@ -1,2 +1,2 @@
-# codexs-badges
-A repo for all of Codex's badges (POV: you speak in third-person)
+# Badges for Codex.bat's endeavours
+Based on Devin's Badge template: https://github.com/intergrav/devins-badges
