@@ -1,0 +1,12 @@
+{
+	"name": "@codex-bat/codexs-badges",
+	"version": "1.0.0",
+	"description": "Badges for me!",
+	"license": "ARR",
+	"homepage": "https://codex-bat.github.io/codexs-badges/",
+	"repository": "codex-bat/codexs-badges",
+	"keywords": [
+		"badges",
+		"documentation"
+	]
+}
